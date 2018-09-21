@@ -31,6 +31,8 @@
  *      1. 服务器环境: linux/CentOs release 6.8
  *      2. Redis版本(2.8.13  http://download.redis.io/releases)
  *      3. 预装软件(gcc,tcl)
+ *              gcc : C语言编译器，redis是用C语言写的，必须安装gcc
+ *              tcl : 另一种语言，redis的一些测试组件是tcl写的
  *
  *
  * 2-2 redis安装
